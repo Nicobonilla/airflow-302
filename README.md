@@ -1,6 +1,6 @@
 # airflow
 
-Apache Airflow 2.11.0 deployed on Docker Compose
+Apache Airflow 3.0.2 deployed on Docker Compose
 Apache Spark 3.5.0 apache/spark:3.5.0 
 Work
 
